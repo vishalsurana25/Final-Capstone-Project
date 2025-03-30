@@ -17,6 +17,9 @@ This section provides a comprehensive comparison of the three models employed fo
 * **Suitability:**  
   * Linear Regression may be suitable for initial exploration or when a simple, interpretable model is desired. However, its performance was weaker compared to the other models in this project, indicating limitations in capturing the complexities of the housing market.
 
+![Image](https://github.com/user-attachments/assets/bd08782e-4034-4927-8dd7-56e3ef69e22c)
+
+
 ### **2\. Random Forest (Tuned):**
 
 * **Performance:**  
@@ -32,6 +35,9 @@ This section provides a comprehensive comparison of the three models employed fo
   * **Interpretability:** While feature importance provides some insight, the overall model can be less interpretable than Linear Regression.  
 * **Suitability:**  
   * Random Forest proved to be the best-performing model for this project, achieving the lowest MSE and highest R². Its ability to handle non-linear relationships and robustness to outliers make it well-suited for predicting housing prices using economic indicators.
+  * 
+
+![Image](https://github.com/user-attachments/assets/7cd950e4-c120-4e0f-8112-6034a4aebdfb)
 
 ### **3\. Neural Network (Tuned):**
 
@@ -49,6 +55,8 @@ This section provides a comprehensive comparison of the three models employed fo
 * **Suitability:**  
   * Neural Network performed competitively, offering the potential for high accuracy but requiring careful tuning. It might be a better choice with larger datasets and for scenarios where interpretability is less critical.
 
+![Image](https://github.com/user-attachments/assets/636e9186-983e-445e-9ff5-b74935b26ef2)
+
 ### **4\. Summary:**
 
 * **Best Performer:** Random Forest (Tuned) emerged as the best overall model for this project based on its superior performance scores (lowest MSE, highest R²) and ability to capture non-linear relationships.  
@@ -60,6 +68,8 @@ This section provides a comprehensive comparison of the three models employed fo
 * For predicting housing prices in zip code 10001 using the selected economic indicators, **Random Forest (Tuned)** is recommended due to its accuracy, robustness, and relatively good interpretability.  
 * If higher accuracy is paramount and sufficient data is available, **Neural Network (Tuned)** could be further explored with careful attention to overfitting and computational cost.  
 * **Linear Regression** may be suitable for initial exploration or simpler scenarios, but it's likely not the optimal choice for this specific problem due to its performance limitations.
+
+![Image](https://github.com/user-attachments/assets/ef599264-9351-4f3d-804e-30e24d345946)
 
 This detailed comparison provides a thorough analysis of the three models, considering their performance, strengths, and weaknesses in the context of housing price prediction using economic indicators. The recommendation is based on a balanced evaluation of these factors and aims to provide the most effective approach for this particular task.
 
