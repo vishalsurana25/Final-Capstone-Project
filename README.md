@@ -34,6 +34,9 @@ Our main objectives were to:
 
 ## **The Data**
 
+* ## [**Read: Data Merging**](https://github.com/vishalsurana25/Final-Capstone-Project/blob/main/Data%20Merging%20Script.md)
+
+* [**Script Used**](https://github.com/vishalsurana25/Final-Capstone-Project/blob/main/Merge_files.ipynb)   
 * **Source:** The project uses a combined dataset containing historical information gathered from various public sources.  
 * **Target:** The primary value we aim to predict is the **median housing price within Zip Code 10001**.  
 * **Features (Predictors):** We focused on key economic indicators as inputs to our models:  
@@ -45,6 +48,10 @@ Our main objectives were to:
 * **Data Preparation:** Before analysis, the data required cleaning, ensuring dates were correctly formatted, and handling any missing information to maintain quality.
 
 ## **Methodology: Our Step-by-Step Approach**
+
+## [**Read: Data Exploration (EDA)**](https://github.com/vishalsurana25/Final-Capstone-Project/blob/main/Summary%20of%20the%20EDA.md)
+
+[**Script Used**](https://github.com/vishalsurana25/Final-Capstone-Project/blob/main/Final%20Project%20with%20EDA.ipynb) 
 
 We followed a structured process to build and evaluate our predictive models:
 
@@ -76,6 +83,9 @@ We followed a structured process to build and evaluate our predictive models:
    * We also generated **Diagnostic Plots** (Actual vs. Predicted, Residuals vs. Predicted) to visually inspect the models' predictions and identify any systematic errors or biases.
 
 ## **Results & Findings**
+
+## [**Model Comparison**](https://github.com/vishalsurana25/Final-Capstone-Project/blob/main/Model%20Comparison_%20Housing%20Price%20Prediction.md)  
+[**Script Used**](https://github.com/vishalsurana25/Final-Capstone-Project/blob/main/Final%20Project%20with%20EDA.ipynb) 
 
 The performance of the three models on the test dataset is summarized below:
 
@@ -128,3 +138,4 @@ While no model can predict the future with perfect accuracy, this analysis offer
   * Scikit-learn (Machine learning models \- LR, RF, GridSearchCV, metrics, preprocessing)  
   * TensorFlow / Keras (Neural network implementation)  
   * Matplotlib / Seaborn (Data visualization)
+
