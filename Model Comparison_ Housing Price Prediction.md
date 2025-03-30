@@ -1,5 +1,7 @@
 ## **Model Comparison: Housing Price Prediction**
 
+[**Script Used**](https://github.com/vishalsurana25/Final-Capstone-Project/blob/main/Final%20Project%20with%20EDA.ipynb) 
+
 This section provides a comprehensive comparison of the three models employed for predicting housing prices in zip code 10001 using economic indicators. The comparison focuses on their performance, strengths, weaknesses, and suitability for this specific task.
 
 ### **1\. Linear Regression:**
