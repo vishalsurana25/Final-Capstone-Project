@@ -1,5 +1,7 @@
 ## **Summary of the Exploratory Data Analysis (EDA):**
 
+[**Script Used**](https://github.com/vishalsurana25/Final-Capstone-Project/blob/main/Final%20Project%20with%20EDA.ipynb) 
+
 **1\. Data Loading and Inspection:**
 
 * The dataset (`full_data_set_merged.csv`) was loaded, and the date column (`DATE`) was converted to the appropriate datetime format.  
