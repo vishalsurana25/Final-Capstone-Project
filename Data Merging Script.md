@@ -1,5 +1,7 @@
 ## **Data Merging Script**
 
+[**Script Used**](https://github.com/vishalsurana25/Final-Capstone-Project/blob/main/Merge_files.ipynb) 
+
 This document summarizes the Python script designed to load, preprocess, and merge multiple datasets related to housing prices and economic indicators into a single, unified dataset.
 
 **1\. Setup and Configuration:**
